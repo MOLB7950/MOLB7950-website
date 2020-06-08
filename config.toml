@@ -1,0 +1,89 @@
+baseurl = "/"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "MOLB 7950"
+theme = "material"
+#disqusShortname = ""
+# googleAnalytics = ""
+paginate = 7
+relativeurls = true
+publishDir = "public"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+pygmentsUseClasses = true
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[author]
+  name = "Jay Hesselberth"
+  bio = ""
+  job = "Associate Professor"
+  location = "University of Colorado School of Medicine"
+  gravatarEmail = "jay.hesselberth@gmail.com"
+  # Your profile picture
+#  picture = ""
+  twitter = "jayhesselberth"
+
+# Menu Configuration
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "syllabus"
+  name = "Syllabus"
+  pre = "<i class=\"material-icons\">date_range</i>"
+  url = "/syllabus"
+[[menu.main]]
+  weight = 3
+  identifier = "policies"
+  name = "Policies"
+  pre = "<i class=\"material-icons\">gavel</i>"
+  url = "/policies"
+[[menu.main]]
+  weight = 4
+  identifier = "rstudio"
+  name = "RStudio"
+  pre = "<i class=\"material-icons\">cloud_queue</i>"
+  url = "https://rstudio.cloud"
+[[menu.main]]
+  weight = 5
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class='fab fa-github fa-lg'></i>"
+  url = "https://github.com/MOLB7950"
+[[menu.main]]
+  weight = 6
+  identifier = "help"
+  name = "Help"
+  pre = "<i class=\"material-icons\">help</i>"
+  url = "https://github.com/MOLB7950/community"
+
+
+[[menu.footer]]
+  weight = 1
+  identifier = "University of Colorado School of Medicine"
+  name = "RNA Bioscience Initiative"
+  pre = "<i class=\"button-icon fa fa-2x fa-map-marker\"></i>"
+  url = "https://rockyrna.org"
+[[menu.footer]]
+
+
+[params]
+  dateFormat = "January 2, 2006"
+  background = "img/header.png"
+  # favicon = "img/favicon.ico"

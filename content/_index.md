@@ -1,9 +1,9 @@
 ---
 title: "MOLB 7950: Informatics and Statistics for Molecular Biology"
 description: >
-  Statistical learning. Learn the theory behind cutting edge statistical
-  and machine learning techniques. Gain hands on experience with real data from
-  a variety of disciplines. The course will focus on the statistical computing language R.
+    This course a hands-on tutorial of skills and theory needed to process
+    large biological data sets and visualize their results. We emphasize
+    command-line tools, Python programming, and the R statistical computing environment.
 ---
 
 ## Course info

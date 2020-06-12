@@ -42,31 +42,38 @@ block exams, a final project, and your participation.
 
 | **Type**     | **% of grade** |
 | :----         | :----:           |
-| Problem Sets | 35             |
-| Block Exams  | 35             |
+| Problem Sets | 30             |
+| Block Exams  | 30             |
 | Final Proejct| 20             |
-| Particpation | 10             |
+| Particpation | 20             |
 
 ### Problem sets 
 
-We reinforce concepts with problem sets assigned at the end of each class
-that should typically take ~30 minutes to complete. Together the problem sets
-constitute 25% of your grade.
+We reinforce concepts with problem sets assigned at the end of class on Mon and
+Wed that should take ~30 minutes to complete. Problems sets assigned on Friday
+will be more subsantial, requiring ~2 hours to complete. Together the problem
+sets constitute 30% of your grade.
 
-Problem sets will be graded by your peers, randomly assigning two anonymous
-reviewers for each assignment. Peer grading is an effective tool that enables
-you to learn from each other and critically evalute others' code and approaches.
-Your peer grading work will factor into your overall participation grade.
+Problem sets on Mon and Tues will be graded by your peers, randomly assigning
+two anonymous reviewers for each assignment, and are double-blinded. Peer
+grading is an effective tool that enables you to learn from each other and
+critically evalute others' code and approaches. **Your peer grading work counts as 
+50% of your participation grade**.
+
+| **Assigned date** | **Due date** | **Grades Due** | **Who grades?** | **Time to complete (approx)** |
+| ----         | ----    | ----           | ----         | ----              |
+| Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Peer-graded | 30 min |
+| Wed @ 12pm   | Thurs @ 12pm | Fri @ 12pm | Peer-graded | 30 min |
+| Fri @ 12pm   | Mon @ 5pm | Wed @ 5pm  | Instructors / TAs | 1-2 hr |
 
 ### Block exams
 
 Block exams will be assigned at the end of the Bootcamp, DNA, RNA, and protein
-blocks and should take a few hours to complete. Together the exams contsitute
-35% of your grade.
+blocks and should take 3-4 hours to complete. These will be graded by Instructors / TAs and together the exams contsitute 30% of your grade.
 
 ### Final projects
 
-Final projects can be complete in groups of 1-3 people. Projects will involve
+Final projects can be completed in groups of 1-3 people. Projects will involve
 analysis of existing public data sets and end with a short presentation the 
 last week of class. The final project constitutes 20% of your grade.
 

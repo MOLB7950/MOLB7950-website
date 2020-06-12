@@ -1,32 +1,78 @@
 ---
 title: "MOLB 7950: Informatics and Statistics for Molecular Biology"
 description: >
-    This course a hands-on tutorial of skills and theory needed to process
-    large biological data sets and visualize their results. We emphasize
-    command-line tools, Python programming, and the R statistical computing environment.
+    This course a hands-on tutorial of skills and theory needed to process large
+    biological data sets and visualize their results. We emphasize command-line
+    tools, Python programming, and the R statistical computing environment.
 ---
 
-## Course info
+## Course Overview 
 
-### Schedule
+MOLB 7950 teaches bioinforamtic skills and theory needed to process large
+biological data sets.
 
-**Due to campus policies around Covid-19, all classes and office hours will be held remotely.**
+Classes will be held via zoom and recorded using Panopto. Real-time help will be
+provided via zoom breakout rooms.
 
-During the Bootcamp portion, classes will be held every day, Mon-Fri from 9:00-10:00am.
+See the [syllabus] for dates and times.
 
-During the main class, classes will be held Mon-Wed-Fri from 9:00-10:00am.
+The course is divided into 4 blocks:
 
-Office hours will be held on Thursdays from 2:00-4:00pm. Please contact <???> to schedule some time.
+THe **Bootcamp block** covers the basics of shell, R, and Python programming. We
+will meet everyday for 1 hour to cover fundamental concepts you will need
+throughout the course.
 
-### Content Delivery
+After Bootcamp, will cover experimental approaches used to analyze DNA, RNA, and
+protein. Each block will begin with statistical concepts needed for rigorous
+analysis.
 
-Classes will be held via zoom and recorded using Panopto.
+1. The **DNA block** covers genome sequencing for identifying mutations, and two
+approaches for analyzing chromatin state (ChIP-seq and MNase-seq).
 
-Real-time help will be provided via zoom breakout rooms.
+1. The **RNA block** covers RNA-seq, alternative splicing, differential gene
+expression, and RNA:protein interactions.
 
-### Teaching team and office hours 
+1. The **Protein block** covers mass spectrometry, densitometry, and image
+analysis.
 
-| **Instructor**        | **E-mail** | **GitHub handle** |
+## Assignments and grading
+
+The course measures learning through daily problem sets (graded by your peers),
+block exams, a final project, and your participation.
+
+| **Type**     | **% of grade** |
+| :----         | :----:           |
+| Problem Sets | 35             |
+| Block Exams  | 35             |
+| Final Proejct| 20             |
+| Particpation | 10             |
+
+### Problem sets 
+
+We reinforce concepts with problem sets assigned at the end of each class
+that should typically take ~30 minutes to complete. Together the problem sets
+constitute 25% of your grade.
+
+Problem sets will be graded by your peers, randomly assigning two anonymous
+reviewers for each assignment. Peer grading is an effective tool that enables
+you to learn from each other and critically evalute others' code and approaches.
+Your peer grading work will factor into your overall participation grade.
+
+### Block exams
+
+Block exams will be assigned at the end of the Bootcamp, DNA, RNA, and protein
+blocks and should take a few hours to complete. Together the exams contsitute
+35% of your grade.
+
+### Final projects
+
+Final projects can be complete in groups of 1-3 people. Projects will involve
+analysis of existing public data sets and end with a short presentation the 
+last week of class. The final project constitutes 20% of your grade.
+
+## Teaching team and office hours 
+
+| **Instructor**        | **E-mail** | **GitHub** |
 | ----                  | :------:   | :--------------------------: |
 | Jay Hesselberth       | <a href="mailto:jay.hesselberth@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/jayhesselberth"><i class="fa fa-github"></i></a> |
 | Neel Mukherjee        | <a href="mailto:neelanjan.mukherjee@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/nmukherjee"><i class="fa fa-github"></i></a> |
@@ -34,19 +80,14 @@ Real-time help will be provided via zoom breakout rooms.
 | Srinivas Ramachandran | <a href="mailto:srinivas.ramachandran@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/srinivasramachandran"><i class="fa fa-github"></i></a> |
 | Matt Taliaferro | <a href="mailto:matthew.taliaferro@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/taliaferrojm"><i class="fa fa-github"></i></a> |
 
-### Texts
+## Recommended reading
 
-The main text book is: 
+### Data processing and visualization
 
-- [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
-A free pdf is available at the website linked above.
+### Statistics
 
-We will supplement this with these textbooks freely available online:
-
-- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) | Hastie, Tibshirani, Friedman | 
-- [R for Data Science](http://r4ds.had.co.nz/) | Grolemund, Wickham | Springer, 2nd edition, 2017
-
-### Materials
-
-This class is very hands on; be sure to bring a fully charged laptop to every class.
+- [Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/book/)
+- [Statistics for Biologists](https://www.nature.com/collections/qghhqm)
+- [Think Stats](https://greenteapress.com/wp/think-stats-2e/)

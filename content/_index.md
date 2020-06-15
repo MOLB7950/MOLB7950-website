@@ -1,8 +1,8 @@
 ---
 title: "MOLB 7950: Informatics and Statistics for Molecular Biology"
 description: >
-    This course a hands-on tutorial of skills and theory needed to process large
-    biological data sets and visualize their results. We emphasize command-line
+    A hands-on tutorial of skills and theory needed to process, analyze, and
+    visualize output from large biological data sets. We emphasize command-line
     tools, Python programming, and the R statistical computing environment.
 ---
 
@@ -54,13 +54,13 @@ Wed that should take ~30 minutes to complete. Problems sets assigned on Friday
 will be more subsantial, requiring ~2 hours to complete. Together the problem
 sets constitute 30% of your grade.
 
-Problem sets on Mon and Tues will be graded by your peers, randomly assigning
+Problem sets on Mon and Wed will be graded by your peers, randomly assigning
 two anonymous reviewers for each assignment, and are double-blinded. Peer
 grading is an effective tool that enables you to learn from each other and
 critically evalute others' code and approaches. **Your peer grading work counts as 
 50% of your participation grade**.
 
-| **Assigned date** | **Due date** | **Grades Due** | **Who grades?** | **Time to complete (approx)** |
+| **Assigned** | **Due** | **Grades By** | **Who grades** | **Time to complete (approx)** |
 | ----         | ----    | ----           | ----         | ----              |
 | Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Peer-graded | 30 min |
 | Wed @ 12pm   | Thurs @ 12pm | Fri @ 12pm | Peer-graded | 30 min |

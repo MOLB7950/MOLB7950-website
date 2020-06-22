@@ -16,15 +16,28 @@ provided via zoom breakout rooms.
 
 See the [syllabus] for dates and times.
 
-The course is divided into 4 blocks:
+The course is divided into blocks:
+
+### Bootcamp
 
 THe **Bootcamp block** covers the basics of shell, R, and Python programming. We
-will meet everyday for 1 hour to cover fundamental concepts you will need
+will meet everyday for 90 minutes to cover fundamental concepts you will need
 throughout the course.
 
+We will cover the basics of data types you will encounter during biological
+data analysis and approaches for their analysis.
+
+### Main blocks
+
 After Bootcamp, will cover experimental approaches used to analyze DNA, RNA, and
-protein. Each block will begin with statistical concepts needed for rigorous
-analysis.
+protein. Each block spans ~5 weeks, with each week focused on a particular type 
+of experiment (see below). Each block covers statistical concepts needed for rigorous
+analysis and analysis approaches to process raw data to results (tables or figures).
+
+In most weeks we will discuss and analyze data from a publication. You are 
+responsible for reading the week's material before class begins on Monday.
+
+#### Block experiments
 
 1. The **DNA block** covers genome sequencing for identifying mutations, and two
 approaches for analyzing chromatin state (ChIP-seq and MNase-seq).
@@ -35,17 +48,22 @@ expression, and RNA:protein interactions.
 1. The **Protein block** covers mass spectrometry, densitometry, and image
 analysis.
 
-## Assignments and grading
+
+## Assignments and Grading
 
 The course measures learning through daily problem sets (graded by your peers),
 block exams, a final project, and your participation.
 
+<div class="zebra-striping sane-table">
+
 | **Type**     | **% of grade** |
-| :----         | :----:           |
+| :----         | ----:           |
 | Problem Sets | 30             |
 | Block Exams  | 30             |
 | Final Proejct| 20             |
 | Particpation | 20             |
+
+</div>
 
 ### Problem sets 
 
@@ -60,16 +78,31 @@ grading is an effective tool that enables you to learn from each other and
 critically evalute others' code and approaches. **Your peer grading work counts as 
 50% of your participation grade**.
 
+<div class="zebra-striping sane-table">
+
 | **Assigned** | **Due** | **Grades By** | **Who grades** | **Time to complete (approx)** |
 | ----         | ----    | ----           | ----         | ----              |
 | Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Peer-graded | 30 min |
 | Wed @ 12pm   | Thurs @ 12pm | Fri @ 12pm | Peer-graded | 30 min |
 | Fri @ 12pm   | Mon @ 5pm | Wed @ 5pm  | Instructors / TAs | 1-2 hr |
 
+</div>
+
 ### Block exams
 
 Block exams will be assigned at the end of the Bootcamp, DNA, RNA, and protein
-blocks and should take 3-4 hours to complete. These will be graded by Instructors / TAs and together the exams contsitute 30% of your grade.
+blocks and should take 3-4 hours to complete. These will be graded by
+Instructors / TAs and together the exams contsitute 30% of your grade.
+
+<div class="zebra-striping sane-table">
+
+| **Block exam** | **Assigned** | **Assignment Due** |
+| ---            | ---          | ---                |
+| DNA exam       | Fri, Oct 2 @ noon | Tues, Oct 6 @ 5 pm |
+| RNA exam       | Wed, Nov 11 @ noon | Mon, Nov 16 @ 9 am |
+| Protein exam   | Thurs, Dec 3 @ noon | Mon, Dec 7 @ 9 am |
+
+</div>
 
 ### Final projects
 
@@ -79,6 +112,8 @@ last week of class. The final project constitutes 20% of your grade.
 
 ## Teaching team and office hours 
 
+<div class="zebra-striping sane-table">
+
 | **Instructor**        | **E-mail** | **GitHub** |
 | ----                  | :------:   | :--------------------------: |
 | Jay Hesselberth       | <a href="mailto:jay.hesselberth@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/jayhesselberth"><i class="fa fa-github"></i></a> |
@@ -86,6 +121,8 @@ last week of class. The final project constitutes 20% of your grade.
 | Suja Jagannathan      | <a href="mailto:sujatha.jagannathan@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/sjaganna"><i class="fa fa-github"></i></a> |
 | Srinivas Ramachandran | <a href="mailto:srinivas.ramachandran@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/srinivasramachandran"><i class="fa fa-github"></i></a> |
 | Matt Taliaferro | <a href="mailto:matthew.taliaferro@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/taliaferrojm"><i class="fa fa-github"></i></a> |
+
+</div>
 
 ## Recommended reading
 

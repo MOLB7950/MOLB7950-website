@@ -39,9 +39,11 @@ please talk to me about it.
 
 ### Disability Policy
 
-Students with disabilities who need accommodations are encouraged to contact
-<???> as soon as possible to better ensure that such accommodations are
-implemented in a timely fashion.
+Students with disabilities who need accommodations are encouraged to contact the
+[Office of Disability Resources and
+Services](http://www.ucdenver.edu/student-services/resources/disability-resources-services/CU%20ANSCHUTZ%20MEDICAL%20CAMPUS/Pages/default.aspx)
+as soon as possible to better ensure that such accommodations are implemented in
+a timely fashion.
 
 ## How to get help
 
@@ -61,16 +63,12 @@ is not satisfactory.
 
     * Good: "Error: could not find function "ggplot"
     * Bad: "R giving errors",
-    "help me!", "aaaarrrrrgh!" Note that you can edit an issue’s title after
-    it's been posted.
     
-* Format your questions using markdown and code formatting. 
+    Note that you can edit an issue’s title after it's been posted.
+    
+* Format your questions using [markdown](https://guides.github.com/features/mastering-markdown/) for code formatting. 
 
 * Preview your issue prior to posting.
-
-* Where appropriate, provide links to specific files, or even lines within them,
-in the body of your issue. This will help your helper understand your question.
-Note that only the teaching team will have access to private repos.
 
 * (Optional) Tag someone or some group of people. Start by typing the @ symbol
 and GitHub will generate some good suggestions. You can also type or paste in
@@ -82,25 +80,25 @@ to tag a class/team mate use their GitHub username.
  
 ### Office Hours 
 
-* Our TA will host study sessions on Thursday afternoons from 2-4pm 
+* Our TAs will host study sessions on Thursday afternoons from 2-4pm. Please
+schedule time at https://calendly.com/rbi-fellows.
 
 ### Honor code
 
 Academic dishonesty will not be tolerated.
 
-For other information on these matters, please consult the [Code of
-Conduct](https://studentconduct.wfu.edu/undergraduate-student-handbook/). For
-Academic issues please see the [College Judicial
-System](https://studentconduct.wfu.edu/the-judicial-council/).
+For other information on these matters, please consult the [Graduate Student Handbook](http://catalog.ucdenver.edu/mime/media/23/1141/Consolidated+Handbook.pdf). For
 
 ### Sharing code & responses
 
-* There are many online resources for sharing code (for example, StackOverflow)
-- you **may** use these resources but **must explicitly cite** where you have
+* There are many online resources for sharing code (for example, http://stackoverflow.com)
+
+* You can use these resources but **must explicitly cite** where you have
 obtained code (both code you used directly and "paraphrased" code / code used as
 inspiration). Any reused code that is not explicitly cited will be treated as
 plagiarism.
-* You **may** discuss the content of assignments with others in this class. If
+
+* You can discuss the content of assignments with others in this class. If
 you do so, please acknowledge your collaborator(s) at the top of your
 assignment, for example: "Collaborators: Gertrude Cox, Florence Nightingale
 David". Failure to acknowledge collaborators will result in a grade of 0. You
@@ -114,8 +112,8 @@ this course!
 
 #### Homework
 
-Problem sets from the textbook will be assigned periodically, potentially along
-with additional questions. You are welcome to work on these with other members
+Problem sets will be assigned periodically.
+You are welcome to work on these with other members
 of this class. If you do so, please acknowledge your collaborator(s) at the top
 of your assignment, for example: "Collaborators: Gertrude Cox, Florence
 Nightingale David". Failure to acknowledge collaborators will result in a grade
@@ -129,15 +127,12 @@ tardiness will be considered a legitimate cause for grade reduction.
 
 ### Late / missed work
 
-- Late work policy for homework assignments and labs:
-    - late, but within 24 hours of due date/time: -50%
-    - any later: no credit
+* Late work policy for homework assignments and labs:
+
+    - Late, but within 24 hours of due date/time: -50%
+    - Any later: no credit
     
-- Late work will not be accepted for the take home exam.
-
-- No make-up reading assessments will be given.
-
-- All regrade requests must be discussed with the professor within one week of
+* All regrade requests must be discussed with the professor within one week of
 receiving your grade. There will be no grade changes after the final project.
 
 ### Professionalism

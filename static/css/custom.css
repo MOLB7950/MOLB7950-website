@@ -1,0 +1,28 @@
+/*
+CU color scheme
+https://www.colorado.edu/brand/how-use/color
+
+Gold: #CFB87C
+Black: #000000
+Dark Grey: #565A5C
+Light Grey: #A2A4A3
+*/
+
+.navbar {
+  background-color: #565A5C;
+}
+
+.zebra-striping tbody tr:nth-child(odd) {
+  background: #eee;
+}
+
+.sane-table table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.sane-table th,
+.sane-table td {
+  padding: 0.25rem;
+  text-align: left;
+  border: 1px solid #ccc;
+}

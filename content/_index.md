@@ -112,15 +112,32 @@ last week of class. The final project constitutes 20% of your grade.
 
 ## Teaching team and office hours 
 
+### Instructors
+
 <div class="zebra-striping sane-table">
 
 | **Instructor**        | **E-mail** | **GitHub** |
 | ----                  | :------:   | :--------------------------: |
 | Jay Hesselberth       | <a href="mailto:jay.hesselberth@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/jayhesselberth"><i class="fa fa-github"></i></a> |
 | Neel Mukherjee        | <a href="mailto:neelanjan.mukherjee@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/nmukherjee"><i class="fa fa-github"></i></a> |
+| Maggie Lam | <a href="mailto:maggie.lam@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/Maggie-Lam"><i class="fa fa-github"></i></a> |
 | Suja Jagannathan      | <a href="mailto:sujatha.jagannathan@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/sjaganna"><i class="fa fa-github"></i></a> |
 | Srinivas Ramachandran | <a href="mailto:srinivas.ramachandran@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/srinivasramachandran"><i class="fa fa-github"></i></a> |
 | Matt Taliaferro | <a href="mailto:matthew.taliaferro@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/taliaferrojm"><i class="fa fa-github"></i></a> |
+
+</div>
+
+### Teaching Assistants
+
+<div class="zebra-striping sane-table">
+
+| **Instructor**        | **E-mail** | **GitHub** |
+| ----                  | :------:   | :--------------------------: |
+| Kent Riemondy | <a href="mailto:kent.riemondy@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/kriemo"><i class="fa fa-github"></i></a> |
+| Rui Fu | <a href="mailto:rui.fu@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/raysinensis"><i class="fa fa-github"></i></a> |
+| Ryan Sheridan | <a href="mailto:ryan.sheridan@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/sheridar"><i class="fa fa-github"></i></a> |
+| Caitlin Winkler | <a href="mailto:caitlin.winkler@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/oligomyeggo"><i class="fa fa-github"></i></a> |
+| Tyler Matheny | <a href="mailto:tyler.matheny@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/tylermatheny"><i class="fa fa-github"></i></a> |
 
 </div>
 

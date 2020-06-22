@@ -1,6 +1,5 @@
-<b>Note:</b> Due dates of the exams will not move, however the timeline of topics and smaller assignments might be updated throughout the semester.
 
-<br><br>
+<br>
 
 <table class="table" style="max-width:900px;margin-left:auto;margin-right:auto">
   <tr>
@@ -15,12 +14,18 @@
 
   {{ range $.Site.Data.lessons }}
     {{range . }}
+    {{ if (and (not .instructor) (not .date)) }}
+    <tr style="background-color:#DCDCDC">
+    {{ else }}
     <tr>
+    {{ end }}
       <td align="right">{{ .date }}</td>
       <td>{{ .title | markdownify }}</td>
 
       {{ if .instructor }}
       <td align="center">{{ .instructor }}</td>
+      {{ else if (and (not .instructor) (not .date)) }}
+      <td></td>
       {{ else }}
         <td align="center"><font color="f1f1f1">
           <i class="fa fa-caret-up fa-lg"></i></font></td>
@@ -29,6 +34,8 @@
       {{ if .slides }}
       <td align="center"><a href="{{ .Site.baseurl }}/slides/{{ .slides  }}">
           <i class="fa fa-laptop  fa-lg"></i></a></td>
+      {{ else if (and (not .instructor) (not .date)) }}
+      <td></td>
       {{ else }}
         <td align="center"><font color="f1f1f1">
           <i class="fa fa-laptop  fa-lg"></i></font></td>
@@ -37,6 +44,8 @@
       {{ if .reading }}
       <td align="center"><a href="{{ .Site.baseurl }}/reading/{{ .reading  }}">
           <i class="fa fa-book fa-lg"></i></a></td>
+      {{ else if (and (not .instructor) (not .date)) }}
+      <td></td>
       {{ else }}
         <td align="center"><font color="f1f1f1">
           <i class="fa fa-book fa-lg"></i></font></td>
@@ -45,6 +54,8 @@
       {{ if .hw }}
       <td align="center"><a href="{{ .Site.baseurl }}/hw/{{ .hw }}">
           <i class="fa fa-pencil-square-o fa-lg"></i></a></td>
+      {{ else if (and (not .instructor) (not .date)) }}
+      <td></td>
       {{ else }}
         <td align="center"><font color="f1f1f1">
           <i class="fa fa-pencil-square-o fa-lg"></i></font></td>
@@ -53,6 +64,8 @@
       {{ if .exam }}
       <td align="center"><a href="{{ .Site.baseurl }}/exam/{{ .exam }}">
           <i class="fa fa-check-square fa-lg"></i></a></td>
+      {{ else if (and (not .instructor) (not .date)) }}
+      <td></td>
       {{ else }}
         <td align="center"><font color="f1f1f1">
           <i class="fa fa-check-square fa-lg"></i></font></td>

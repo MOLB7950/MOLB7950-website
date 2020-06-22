@@ -48,12 +48,12 @@ pygmentsUseClasses = true
   name = "Syllabus"
   pre = "<i class=\"material-icons\">date_range</i>"
   url = "/syllabus"
-#[[menu.main]]
-#  weight = 3
-#  identifier = "policies"
-#  name = "Policies"
-#  pre = "<i class=\"material-icons\">gavel</i>"
-#  url = "/policies"
+[[menu.main]]
+  weight = 3
+  identifier = "policies"
+  name = "Policies"
+  pre = "<i class=\"material-icons\">gavel</i>"
+  url = "/policies"
 [[menu.main]]
   weight = 4
   identifier = "rstudio"
@@ -86,5 +86,5 @@ pygmentsUseClasses = true
   dateFormat = "January 2, 2006"
   background = "img/header.png"
   # favicon = "img/favicon.ico"
-  custom_css = ["css/custom.css"]
+  custom_css = ["custom.css"]
 

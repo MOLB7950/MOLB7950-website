@@ -11,10 +11,10 @@ held remotely.**
 Dates are from the [Fall 2020 Academic
 Calendar](http://www.ucdenver.edu/student-services/resources/Registrar-dev/Documents/AcademicCalendars/AcademicCalendarFall2020.pdf).
 
-During the **Bootcamp** block, classes will be held every day, Mon-Fri from **9:00-10:00am**.
+During the **Bootcamp** block, classes will be held every day, Mon-Fri from **9:00-10:30am**.
 
 During the **DNA/RNA/Protein blocks**, we will use a flipped classroom. You will watch a ~30 minute recorded lecture before class on Monday,
-and in-class exercises and discussion will be held Mon-Wed-Fri from **9:00-10:00am**.
+and in-class exercises and discussion will be held Mon-Wed-Fri from **9:00-10:30am**.
 
 <b>Note:</b> Due dates of the problem sets and exams will not move; however, the timeline of topics might be updated throughout the semester.
 

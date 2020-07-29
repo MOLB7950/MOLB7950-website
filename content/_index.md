@@ -82,7 +82,7 @@ critically evalute others' code and approaches. **Your peer grading work counts 
 
 | **Assigned** | **Due** | **Grades By** | **Who grades** | **Time to complete (approx)** |
 | ----         | ----    | ----           | ----         | ----              |
-| Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Peer-graded | 30 min |
+| Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Instructors / TAs | 30 min |
 | Wed @ 12pm   | Thurs @ 12pm | Fri @ 12pm | Peer-graded | 30 min |
 | Fri @ 12pm   | Mon @ 5pm | Wed @ 5pm  | Instructors / TAs | 1-2 hr |
 

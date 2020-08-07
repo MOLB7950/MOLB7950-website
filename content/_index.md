@@ -65,6 +65,19 @@ block exams, a final project, and your participation.
 
 </div>
 
+Grades will be assigned as follows:
+
+<div class="zebra-striping sane-table">
+
+| **Percent total points**     | **Grade** |
+| ---- | ---- |
+| >= 95 | A |
+| >= 90 | A- |
+| >= 85 | B+ |
+| >= 80 | B |
+
+</div>
+
 ### Problem sets 
 
 We reinforce concepts with problem sets assigned at the end of class on Mon and

@@ -20,8 +20,7 @@ and in-class exercises and discussion will be held Mon-Wed-Fri from **9:00-10:30
 
 ## Office Hours
 
-Office hours will be held on Thursdays from 2:00-4:00pm. Please use https://calendly.com/rbi-fellows to
-schedule time.
+Office hours will be held on Thursday afternoons from 1:00-5:00pm. Please schedule time at <https://calendly.com/molb7950>.
 
 <div>
 

@@ -20,7 +20,10 @@ and in-class exercises and discussion will be held Mon-Wed-Fri from **9:00-10:30
 
 ## Office Hours
 
-Office hours will be held on Thursday afternoons from 1:00-5:00pm. Please schedule time at <https://calendly.com/molb7950>.
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+
+Office hours will be held on Thursday afternoons from 1:00-5:00pm. <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/molb7950/office-hours'});return false;">Schedule time with us</a>.
 
 <div>
 

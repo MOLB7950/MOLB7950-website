@@ -40,7 +40,7 @@ will start a thread where you can ask a question.
 * Our TAs will host study sessions on Thursday afternoons from 12-5pm. 
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/molb7950/office-hours" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/molb7950-tas/office-hours" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly inline widget end -->
 

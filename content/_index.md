@@ -14,7 +14,7 @@ biological data sets.
 Classes will be held via zoom and recorded using Panopto. Real-time help will be
 provided via zoom breakout rooms.
 
-See the [syllabus] for dates and times.
+See the [syllabus]({{< ref "syllabus.md" >}}) for dates and times.
 
 The course is divided into blocks:
 

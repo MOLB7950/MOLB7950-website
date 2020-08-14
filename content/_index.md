@@ -129,14 +129,14 @@ last week of class. The final project constitutes 20% of your grade.
 
 <div class="zebra-striping sane-table">
 
-| **Instructor**        | **E-mail** | **GitHub** |
-| ----                  | :------:   | :--------------------------: |
-| Jay Hesselberth       | <a href="mailto:jay.hesselberth@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/jayhesselberth"><i class="fa fa-github"></i></a> |
-| Neel Mukherjee        | <a href="mailto:neelanjan.mukherjee@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/nmukherjee"><i class="fa fa-github"></i></a> |
-| Maggie Lam | <a href="mailto:maggie.lam@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/Maggie-Lam"><i class="fa fa-github"></i></a> |
-| Suja Jagannathan      | <a href="mailto:sujatha.jagannathan@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/sjaganna"><i class="fa fa-github"></i></a> |
-| Srinivas Ramachandran | <a href="mailto:srinivas.ramachandran@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/srinivasramachandran"><i class="fa fa-github"></i></a> |
-| Matt Taliaferro | <a href="mailto:matthew.taliaferro@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/taliaferrojm"><i class="fa fa-github"></i></a> |
+| **Instructor**        | **E-mail** | **GitHub** | **Schedule a meeting** |
+| ----                  | :------:   | :--------------------------: | :----: |
+| Jay Hesselberth       | <a href="mailto:jay.hesselberth@cuanschutz.edu"><i class="fa fa-envelope"></i></a> | <a href="http://github.com/jayhesselberth"><i class="fa fa-github"></i></a> | <a href="http://calendly.com/jay-hesselberth"><i class="fa fa-calendar"></i></a> |
+| Neel Mukherjee        | <a href="mailto:neelanjan.mukherjee@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/nmukherjee"><i class="fa fa-github"></i></a> | <a href="http://calendly.com/neelanjan-mukherjee"><i class="fa fa-calendar"></i></a> |
+| Maggie Lam | <a href="mailto:maggie.lam@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/Maggie-Lam"><i class="fa fa-github"></i></a> | 
+| Suja Jagannathan      | <a href="mailto:sujatha.jagannathan@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/sjaganna"><i class="fa fa-github"></i></a> |  <a href="http://calendly.com/jagannas"><i class="fa fa-calendar"></i></a> |
+| Srinivas Ramachandran | <a href="mailto:srinivas.ramachandran@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/srinivasramachandran"><i class="fa fa-github"></i></a> |  <a href="http://calendly.com/srinivas-ramachandran"><i class="fa fa-calendar"></i></a> |
+| Matt Taliaferro | <a href="mailto:matthew.taliaferro@cuanschutz.edu"><i class="fa fa-envelope"></i></a> |  <a href="http://github.com/taliaferrojm"><i class="fa fa-github"></i></a> |  <a href="http://calendly.com/matthew-taliaferro"><i class="fa fa-calendar"></i></a> |
 
 </div>
 

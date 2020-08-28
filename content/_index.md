@@ -82,21 +82,15 @@ Grades will be assigned as follows:
 
 We reinforce concepts with problem sets assigned at the end of class on Mon and
 Wed that should take ~30 minutes to complete. Problems sets assigned on Friday
-will be more subsantial, requiring ~2 hours to complete. Together the problem
+will be more substantial, requiring ~2 hours to complete. Together the problem
 sets constitute 30% of your grade.
-
-Problem sets on Mon and Wed will be graded by your peers, randomly assigning
-two anonymous reviewers for each assignment, and are double-blinded. Peer
-grading is an effective tool that enables you to learn from each other and
-critically evalute others' code and approaches. **Your peer grading work counts as 
-50% of your participation grade**.
 
 <div class="zebra-striping sane-table">
 
 | **Assigned** | **Due** | **Grades By** | **Who grades** | **Time to complete (approx)** |
 | ----         | ----    | ----           | ----         | ----              |
-| Mon @ 12pm   | Tues @ 12pm | Wed @ 12pm  | Instructors / TAs | 30 min |
-| Wed @ 12pm   | Thurs @ 12pm | Fri @ 12pm | Peer-graded | 30 min |
+| Mon @ 12pm   | Tues @ 5pm | Wed @ 5pm  | Instructors / TAs | 60 min |
+| Wed @ 12pm   | Thurs @ 5pm | Fri @ 5pm | Instructors | 60 min |
 | Fri @ 12pm   | Mon @ 5pm | Wed @ 5pm  | Instructors / TAs | 1-2 hr |
 
 </div>

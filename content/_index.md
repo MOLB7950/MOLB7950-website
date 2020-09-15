@@ -112,8 +112,8 @@ Instructors / TAs and together the exams contsitute 30% of your grade.
 | **Block exam** | **Assigned** | **Assignment Due** |
 | ---            | ---          | ---                |
 | DNA exam       | Fri, Oct 2 @ noon | Tues, Oct 6 @ 5 pm |
-| RNA exam       | Wed, Nov 11 @ noon | Mon, Nov 16 @ 9 am |
-| Protein exam   | Thurs, Dec 3 @ noon | Mon, Dec 7 @ 9 am |
+| RNA exam       | Fri, Oct 30 @ noon | Tues, Nov 3 @ 5 pm |
+| Protein exam   | Fri, Nov 13 @ noon | Tues, Nov 17 @ 5 pm |
 
 </div>
 
